@@ -1,0 +1,10 @@
+
+
+.mid-container{
+    max-width: 1400px;
+    margin: auto;
+}
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,16 @@
+
+
+h2, h3, h4, p, img{
+    margin: 5px;
+}
+.country{
+    background-color: rgba(250, 235, 215, 0.897);
+    margin: 10px;
+    padding: 20px 0 20px 0;
+    border-radius: 20px;
+    border: 1px solid rgb(161, 22, 22);
+}
+.country img{
+    width: 300px;
+    height: 150px;
+}
